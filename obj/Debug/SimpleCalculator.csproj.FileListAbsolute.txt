@@ -1,0 +1,9 @@
+E:\BASIS _SEIP - Practice (.NET)\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe.config
+E:\BASIS _SEIP - Practice (.NET)\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.exe
+E:\BASIS _SEIP - Practice (.NET)\SimpleCalculator\SimpleCalculator\bin\Debug\SimpleCalculator.pdb
+E:\BASIS _SEIP - Practice (.NET)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csprojResolveAssemblyReference.cache
+E:\BASIS _SEIP - Practice (.NET)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.SimpleCalculator.resources
+E:\BASIS _SEIP - Practice (.NET)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.Properties.Resources.resources
+E:\BASIS _SEIP - Practice (.NET)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.csproj.GenerateResource.Cache
+E:\BASIS _SEIP - Practice (.NET)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.exe
+E:\BASIS _SEIP - Practice (.NET)\SimpleCalculator\SimpleCalculator\obj\Debug\SimpleCalculator.pdb
